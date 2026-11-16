@@ -1,0 +1,4 @@
+email,password,expectedStatus
+eve.holt@reqres.in,cityslicka,200
+eve.holt@reqres.in,,400
+wrong.user@reqres.in,123456,400
